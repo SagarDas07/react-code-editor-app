@@ -30,7 +30,7 @@ const Output = ({ editorRef, language }) => {
   };
 
   return (
-    <Box w="50%">
+    <Box> {/* Remove w="50%" here */}
       <Text mb={2} fontSize="lg">
         Output
       </Text>
