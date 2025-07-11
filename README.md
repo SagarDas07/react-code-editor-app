@@ -144,7 +144,7 @@ react-code-editor-app/
 ![Contact Page](public/screenshots/contact_page.png)
 
 ## 👤 About the Developer
-Created by **Sagar Das**. If you have feedback or want to collaborate, visit the [Contact](./src/pages/Contact.jsx) page or email dass14177@gmail.com.
+Created by **Sagar Das**. If you have feedback or want to collaborate, visit the [Contact](https://github.com/SagarDas07) page or email dass14177@gmail.com.
 
 ---
 
