@@ -19,7 +19,7 @@ A modern, multi-language online code editor built with React, Vite, Chakra UI, a
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/SagarDas07/react-code-editor-app
 cd your-repo/react-code-editor-app
 ```
 
