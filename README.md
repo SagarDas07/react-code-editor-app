@@ -129,6 +129,20 @@ react-code-editor-app/
         └── Home.jsx
 ```
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](public/screenshots/home_page.png)
+
+### Editor Page (Language Dropdown)
+![Editor Page - Dropdown](public/screenshots/editor_page1_dropdown.png)
+
+### Editor Page (Java Code Example)
+![Editor Page - Java Example](public/screenshots/editor_page2_java_code_example.png)
+
+### Contact Page
+![Contact Page](public/screenshots/contact_page.png)
+
 ## 👤 About the Developer
 Created by **Sagar Das**. If you have feedback or want to collaborate, visit the [Contact](./src/pages/Contact.jsx) page or email dass14177@gmail.com.
 
